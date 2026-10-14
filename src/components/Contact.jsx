@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { FaGithub, FaFacebook, FaEnvelope, FaWhatsapp, FaAddressCard } from "react-icons/fa";
+import { FaEnvelope, FaWhatsapp, FaAddressCard } from "react-icons/fa";
 import emailjs from "@emailjs/browser";
 
 const SERVICE_ID = "service_amjy4r5";
