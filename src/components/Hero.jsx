@@ -137,7 +137,7 @@ export default function Hero() {
           >
             <div className="h-px w-8 bg-white/10" />
             {[
-              { icon: <FaLinkedin />, href: "www.linkedin.com/in/arif-raugir-6285932b5", label: "LinkedIn" },
+              { icon: <FaLinkedin />, href: "https://linkedin.com/in/arif-raugir-6285932b5", label: "LinkedIn" },
               { icon: <FaGithub />, href: "https://github.com/arif-raugir", label: "GitHub" },
               { icon: <FaFacebook />, href: "https://facebook.com/arif.raugir", label: "Facebook" },
               { icon: <FaInstagram />, href: "https://instagram.com/this_is_raugir/", label: "Instagram" },
