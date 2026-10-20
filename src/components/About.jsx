@@ -75,7 +75,7 @@ export default function About() {
                 { icon: <FaMapMarkerAlt />, label: "Location", value: "Dhaka, Bangladesh" },
                 { icon: <FaUniversity />, label: "University", value: "Southeast University" },
                 { icon: <FaShieldAlt />, label: "Focus", value: "Django & AI Automation" },
-                { icon: <FaCode />, label: "Languages", value: "Python · C · Assembly" },
+                { icon: <FaCode />, label: "Languages", value: "Python · C · Java" },
               ].map((item) => (
                 <div key={item.label} className="glass rounded-lg p-3 flex items-center gap-3">
                   <span className="text-lime-400 text-sm">{item.icon}</span>
