@@ -121,7 +121,7 @@ export default function Hero() {
               View Projects <HiArrowRight />
             </a>
             <a
-              href="/arif_raugir_resume.pdf" download
+              href="/Arif_Raugir_Resume.pdf"
               className="flex items-center gap-2 px-5 py-2.5 border border-white/15 hover:border-white/30 text-gray-300 hover:text-white font-medium rounded-lg transition-all duration-200"
             >
               <FaDownload className="text-sm" /> Resume
